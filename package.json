@@ -1,0 +1,12 @@
+{
+  "name": "solanaweb3js-phantom-trading-bot",
+  "version": "1.0.0",
+  "description": "A bot to automate token swaps on Solana using Phantom Wallet. It allows for automated swaps based on conditions like price dips or gains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

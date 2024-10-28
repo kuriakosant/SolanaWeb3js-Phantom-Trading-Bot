@@ -1,0 +1,2 @@
+RPC_URL=https://api.mainnet-beta.solana.com
+PHANTOM_WALLET_PRIVATE_KEY=<your-wallet-private-key>
